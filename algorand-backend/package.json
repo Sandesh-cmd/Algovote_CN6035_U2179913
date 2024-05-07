@@ -10,10 +10,12 @@
   "author": "Antony Silvetti-Schmitt",
   "license": "MIT",
   "dependencies": {
-    "algosdk": "^1.13.1",
+    "algosdk": "^1.24.1",
+    "buffer": "^6.0.3",
     "dotenv": "^16.0.0",
     "pip": "^0.0.1",
     "python3": "^0.0.1",
+    "react": "^18.3.1",
     "xhr2": "^0.2.1"
   }
 }

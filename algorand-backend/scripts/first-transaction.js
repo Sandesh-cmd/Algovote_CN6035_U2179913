@@ -4,7 +4,7 @@ import algosdk from "algosdk";
 dotenv.config();
 
 //don’t forget to add your mnemonic
-let myaccount = algosdk.mnemonicToSecretKey("erase parrot tissue member exclude south elevator garlic soup jump share gorilla act genuine broken major toast vendor cherry focus vacant unknown spider above arrest");
+let myaccount = algosdk.mnemonicToSecretKey("donate teach planet rebel domain mad dry screen veteran obey thank unusual clay quit stick toy cushion chalk host barrel dragon denial element abstract south");
 
 const baseServer = "https://testnet-api.algonode.cloud";
 
